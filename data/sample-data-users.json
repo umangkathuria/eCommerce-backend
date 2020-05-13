@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "username": "admin",
+        "password": "password",
+        "cart_id": 40000
+    },
+    {
+        "id": 2,
+        "username": "guest",
+        "password": "password",
+        "cart_id": 40000
+    },
+    {
+        "id": 3,
+        "username": "umangkathuria",
+        "password": "password",
+        "cart_id": 40000
+    },
+    {
+        "id": 4,
+        "username": "sampleUsername",
+        "password": "password",
+        "cart_id": 40000
+    },
+    {
+        "id": 5,
+        "username": "sampleUsernam2",
+        "password": "password",
+        "cart_id": 40000
+    }
+]

@@ -1,0 +1,8 @@
+{
+  "name": "cart-sync",
+  "version": "1.0.0",
+  "description": "This API is used for managing cart data.",
+  "main": "cart-sync.js",
+  "author": "umangkathuria",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "add-to-cart",
+  "version": "1.0.0",
+  "description": "This API is used for adding products to cart",
+  "main": "add-to-cart.js",
+  "author": "umangkathuria",
+  "license": "MIT"
+}

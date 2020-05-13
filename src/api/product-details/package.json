@@ -1,0 +1,8 @@
+{
+  "name": "product-details",
+  "version": "1.0.0",
+  "description": "This API is used for fetching all products details.",
+  "main": "product-details.js",
+  "author": "umangkathuria",
+  "license": "MIT"
+}

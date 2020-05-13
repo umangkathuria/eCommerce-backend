@@ -1,0 +1,44 @@
+[
+    {
+        "productid": 1,
+        "name": "Nikon D103",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    },
+    {
+        "productid": 2,
+        "name": "Nikon D302",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    },
+    {
+        "productid": 3,
+        "name": "Canon XZ201",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    },
+    {
+        "productid": 4,
+        "name": "Nikon D3500",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    },
+    {
+        "productid": 5,
+        "name": "Nikon D5500",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    },
+    {
+        "productid": 6,
+        "name": "Nikon D6100",
+        "description": "Camera Description Sample",
+        "price": 40000,
+        "make": 2019
+    }
+]
