@@ -21,5 +21,11 @@ AUTH_KEY = secret
 Port and host are the configuration for server
 Auth key contains the secret key for JWT Authentication
 
+and then run th following to start the server- 
+```
+npm install
+rpm start
+
+```
 
 Also, a sample database is also added in the repository which is a relational DB based on SQLITE. 
