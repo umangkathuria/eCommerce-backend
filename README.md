@@ -38,6 +38,7 @@ Also, a sample database is also added in the repository which is a relational DB
 ## Implementation Notes
 
 #### Login API
+- Endpoint : api/login
 - HTTP Method- POST
 - Description: This API performs the User validation using two fields username and password and upon successful validation returns a JWT Token.  
 - Input Body: {
@@ -57,6 +58,7 @@ password: ""
   - cart_id integer
 
 #### Get All Products API
+- Endpoint : /api/prod
 - HTTP Method- GET
 - Description: This API performs a Select query on the existing products in the database and returns the list of products available in the response. 
 - No authentication is needed for this API. 
